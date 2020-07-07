@@ -23,6 +23,7 @@ extension UIColor {
     static let redAccent = UIColor(named: "redAccent")!
     static let yellowAccent = UIColor(named: "yellowAccent")!
     static let subtleText = UIColor(named: "subtleText")!
+    static let beigeBg = UIColor(named: "beigeBg")!
 }
 
 extension UIView {

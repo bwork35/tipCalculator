@@ -88,7 +88,7 @@ class TipCalcViewController: UIViewController {
     
     //MARK: - Methods
     func setupViews() {
-        self.view.backgroundColor = .darkerBlue
+        self.view.backgroundColor = .beigeBg
         self.tipAmountLabel.isHidden = true
         self.tipLabel.isHidden = true
         self.totalAmountLabel.isHidden = true
